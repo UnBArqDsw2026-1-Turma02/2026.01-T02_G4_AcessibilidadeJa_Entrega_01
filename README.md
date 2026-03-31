@@ -1,31 +1,40 @@
-# RepositorioTemplate
+# Acessibilidade Já
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 04<br>
+**Entrega**: 01<br>
 
-## Introdução
+## Alunos
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+| Matrícula  | Aluno                          |
+| ---------- | ------------------------------ |
+| 20/2046040 | Dara Maria Barbosa de Sousa    |
+| 20/2017361 | Enzo Fernandes Borges          |
+| 20/2016201 | Felipe Fernandes Brandim       |
+| 22/2022082 | Fábio Santos Araujo            |
+| 22/1007715 | Fernanda Vaz Duarte dos Santos |
+| 22/2037568 | Isaac Batista Pessoa de Moraes |
+| 21/1061968 | João Pedro Veras Gomes         |
+| 22/2006946 | Lucas Borges Branco            |
+| 22/2007012 | Matheus Rodrigues da Silva     |
+| 21/2005444 | Pedro Fonseca Cruz             |
 
-## Tecnologia
+## Sobre
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+Contextualize, usando referências, links, e outros materiais como fontes.
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+## Screenshots da Primeira Entrega
 
-### Instalando o docsify
+Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
-Execute o comando:
+## Há algo a ser executado?
 
-```shell
-npm i docsify-cli -g
-```
+( ) SIM
 
-### Executando localmente
+( ) NÃO
 
-Para iniciar o site localmente, utilize o comando:
+Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-```shell
-docsify serve ./docs
-```
+## Informações Complementares
+
+Quaisquer outras informações adicionais podem ser descritas nessa seção.
