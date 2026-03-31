@@ -38,3 +38,9 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 ## Informações Complementares
 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de versões
+
+| Versão | Data | Descrição | Autor(es) |
+| :---: | :---: | :--- | :---: |
+| `1.0` | 31/03/2026 | Criação da página | [Dara Maria](https://github.com/daramariabs) |
