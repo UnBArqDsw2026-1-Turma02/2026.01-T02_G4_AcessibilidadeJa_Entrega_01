@@ -1,19 +1,69 @@
 site_name: AcessibilidadeJá
-site_description: Documentação - Widget de Acessibilidade
+site_url: https://unbarqdsw2026-1-turma02.github.io/2026.01-T02_G4_AcessibilidadeJa_Entrega_01/
+repo_url: https://github.com/UnBArqDsw2026-1-Turma02/2026.01-T02_G4_AcessibilidadeJa_Entrega_01
+repo_name: UnBArqDsw2026-1-Turma02/2026.01-T02_G4_AcessibilidadeJa_Entrega_01
 
+use_directory_urls: false
+
+nav:
+  - Início - AcessibilidadeJá: "index.md"
+  - Desenho de Software (Base):
+      - Base: Base/1.Base.md
+  - Design Sprint:
+      - Design sprint: Base/1.1.DesignSprint.md
+  - Artefato Generalista:
+      - Artefatos: Base/1.2.ArtefatoGeneralista.md
+  - Modelagem BPMN:
+      - Modelagem BPMN: Base/1.3.ModelagemBPMN.md
+  - Participações:
+      - Participações: Base/1.4.ParticipacoesBase.md
+  - Iniciativas Extras:
+      - Iniciativas Extras: Base/1.5.IniciativasExtras.md
 theme:
   name: material
+  locale: pt_BR
+  logo: images/acessibilidade.svg
+  favicon: images/acessibilidade.png
+
   features:
     - navigation.tabs
     - navigation.sections
+    - search.highlight
+    - search.suggest
     - toc.integrate
+    - navigation.top
+    - navigation.expand
 
-nav:
-  - Início: index.md
-  - Desenho de Software (Base): 
-    - Base: Base/1.Base.md
-    - Design Sprint: Base/1.1.DesignSprint.md
-    - Artefato Generalista: Base/1.2.ArtefatoGeneralista.md
-    - Modelagem BPMN: Base/1.3.ModelagemBPMN.md
-    - Participacões: Base/1.4.ParticipacoesBase.md
-    - Iniciativas Extras: Base/1.5.IniciativasExtras.md
+  palette:
+    - scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/lightbulb
+        name: Modo escuro
+    - scheme: slate
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Modo claro
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/relatorio-checklist.css
+extra_javascript:
+  - js/progresso-checkbox.js
+  - js/back-to-top.js
+  - https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js
+  - js/jspdf.umd.min.js
+  - js/relatorio-checklist.js
