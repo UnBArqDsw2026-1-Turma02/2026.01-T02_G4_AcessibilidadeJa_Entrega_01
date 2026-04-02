@@ -4,37 +4,39 @@
 **Número do Grupo**: 04<br>
 **Entrega**: 01<br>
 
-## Alunos
+## Equipe
 
-| Matrícula  | Aluno                          |
-| ---------- | ------------------------------ |
-| 20/2046040 | Dara Maria Barbosa de Sousa    |
-| 20/2017361 | Enzo Fernandes Borges          |
-| 20/2016201 | Felipe Fernandes Brandim       |
-| 22/2022082 | Fábio Santos Araujo            |
-| 22/1007715 | Fernanda Vaz Duarte dos Santos |
-| 22/2037568 | Isaac Batista Pessoa de Moraes |
-| 21/1061968 | João Pedro Veras Gomes         |
-| 22/2006946 | Lucas Borges Branco            |
-| 22/2007012 | Matheus Rodrigues da Silva     |
-| 21/2005444 | Pedro Fonseca Cruz             |
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Felipe-Brandim"><img style="border-radius: 50%;" src="https://github.com/Felipe-Brandim.png" width="100px;" alt=""/><br /><sub><b>Felipe Brandim</b></sub></a><br />
+    <td align="center"><a href="https://github.com/daramariabs"><img style="border-radius: 50%;" src="https://github.com/daramariabs.png" width="100px;" alt=""/><br /><sub><b>Dara Maria</b></sub></a><br />   
+    <td align="center"><a href="https://github.com/enzo-fb"><img style="border-radius: 50%;" src="https://github.com/enzo-fb.png" width="100px;" alt=""/><br /><sub><b>Enzo Fernandes</b></sub></a><br />   
+    <td align="center"><a href="https://github.com/fabiofonteles1 "><img style="border-radius: 50%;" src="https://github.com/fabiofonteles1.png" width="100px;" alt=""/><br /><sub><b>Fábio Fonteles</b></sub></a><br />
+    <td align="center"><a href="https://github.com/Fernandavazgit1 "><img style="border-radius: 50%;" src="https://github.com/Fernandavazgit1.png" width="100px;" alt=""/><br /><sub><b>Fernanda Vaz</b></sub></a><br />
+    <td align="center"><a href="https://github.com/isaacbatista26 "><img style="border-radius: 50%;" src="https://github.com/isaacbatista26.png" width="100px;" alt=""/><br /><sub><b>Isaac Batista</b></sub></a><br />
+    <td align="center"><a href="https://github.com/JoosPerro "><img style="border-radius: 50%;" src="https://github.com/JoosPerro.png" width="100px;" alt=""/><br /><sub><b>João Pedro</b></sub></a><br />
+    <td align="center"><a href="https://github.com/lucasbbranco"><img style="border-radius: 50%;" src="https://github.com/lucasbbranco.png" width="100px;" alt=""/><br /><sub><b>Lucas Branco</b></sub></a><br />
+    <td align="center"><a href="https://github.com/mrodrigues14 "><img style="border-radius: 50%;" src="https://github.com/mrodrigues14.png" width="100px;" alt=""/><br /><sub><b>Matheus Rodrigues</b></sub></
+    a><br />
+   <td align="center"><a href="https://github.com/pfc15"><img style="border-radius: 50%;" src="https://github.com/pfc15.png" width="100px;" alt=""/><br /><sub><b>Pedro Cruz</b></sub></a><br />
+    
+  </tr>
+</table>
 
 ## Sobre
 
-Contextualize, usando referências, links, e outros materiais como fontes.
+Queremos por meio desse projeto trazer uma solução open source para problemas de acessibilidade em aplicações web.
+
+A intenção é criar widgets de acessibilidade que possam ser facilmente utilizados em sites diversos, ficando a critério do desenvolvedor a escolha da nossa ferramenta. Uma vez que ele a escolhe e a implementa no código, os usuários poderão usufruir livremente de seus benefícios;contribuindo dessa forma para um mundo digital um pouco mais acessível.
 
 ## Screenshots da Primeira Entrega
 
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
-## Há algo a ser executado?
+## Passo a passo para executar nossa aplicação:
 
-( ) SIM
+...
 
-( ) NÃO
+## Licença
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares
-
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+Este projeto é **open source** e está licenciado sob a **Licença MIT**.
