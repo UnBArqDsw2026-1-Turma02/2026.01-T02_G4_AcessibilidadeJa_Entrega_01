@@ -29,13 +29,25 @@ Queremos por meio desse projeto trazer uma solução open source para problemas 
 
 A intenção é criar widgets de acessibilidade que possam ser facilmente utilizados em sites diversos, ficando a critério do desenvolvedor a escolha da nossa ferramenta. Uma vez que ele a escolhe e a implementa no código, os usuários poderão usufruir livremente de seus benefícios;contribuindo dessa forma para um mundo digital um pouco mais acessível.
 
-## Screenshots da Primeira Entrega
+## Exemplos da Primeira Entrega
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+Sketch:
+
+<p align="center">
+  <img src="images/sketch.png" alt="Sketch da ideia" />
+</p>
+
+Protótipo Alta Fidelidade:
+
+<p align="center">
+  <img src="images/prototipoFigma.png" alt="Protótipo Figma" />
+</p>
 
 ## Passo a passo para executar nossa aplicação:
 
-...
+Por enquanto só temos o pages, para visualizar localmente o comando é:
+
+`mkdocs serve`
 
 ## Licença
 
@@ -47,3 +59,4 @@ Este projeto é **open source** e está licenciado sob a Licença MIT.
 | :----: | :--------: | :------------------------------- | :-------------------------------------------------: |
 | `1.0`  | 31/03/2026 | Criação da página                |    [Dara Maria](https://github.com/daramariabs)     |
 | `2.0`  | 31/03/2026 | Melhoria de Layout e usabilidade | [Felipe Brandim](https://github.com/Felipe-Brandim) |
+| `2.1`  | 31/03/2026 | Revisão                          | [Felipe Brandim](https://github.com/Felipe-Brandim) |
