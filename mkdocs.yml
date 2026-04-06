@@ -7,8 +7,6 @@ use_directory_urls: false
 
 nav:
   - Início - AcessibilidadeJá: "index.md"
-  - Desenho de Software (Base):
-      - Base: Base/1.Base.md
   - Design Sprint:
       - Design sprint: Base/1.1.DesignSprint.md
   - Artefato Generalista:
