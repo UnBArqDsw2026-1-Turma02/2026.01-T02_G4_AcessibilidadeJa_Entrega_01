@@ -34,13 +34,13 @@ A intenção é criar widgets de acessibilidade que possam ser facilmente utiliz
 Sketch:
 
 <p align="center">
-  <img src="images/sketch.png" alt="Sketch da ideia" />
+  <img src="docs/images/sketch.png" alt="Sketch da ideia" />
 </p>
 
 Protótipo Alta Fidelidade:
 
 <p align="center">
-  <img src="images/prototipoFigma.png" alt="Protótipo Figma" />
+  <img src="docs/images/prototipoFigma.png" alt="Protótipo Figma" />
 </p>
 
 ## Passo a passo para executar nossa aplicação:
