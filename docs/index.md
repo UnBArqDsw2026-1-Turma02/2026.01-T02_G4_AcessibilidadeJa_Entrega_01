@@ -58,5 +58,5 @@ Este projeto é **open source** e está licenciado sob a Licença MIT.
 | Versão |    Data    | Descrição                        |                      Autor(es)                      |
 | :----: | :--------: | :------------------------------- | :-------------------------------------------------: |
 | `1.0`  | 31/03/2026 | Criação da página                |    [Dara Maria](https://github.com/daramariabs)     |
-| `2.0`  | 31/03/2026 | Melhoria de Layout e usabilidade | [Felipe Brandim](https://github.com/Felipe-Brandim) |
-| `2.1`  | 31/03/2026 | Revisão                          | [Felipe Brandim](https://github.com/Felipe-Brandim) |
+| `1.1`  | 31/03/2026 | Melhoria de Layout e usabilidade | [Felipe Brandim](https://github.com/Felipe-Brandim) |
+| `1.2`  | 31/03/2026 | Revisão                          | [Felipe Brandim](https://github.com/Felipe-Brandim) |
